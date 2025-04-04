@@ -1,0 +1,3 @@
+[submodule "streaming-flow-policy"]
+	path = streaming-flow-policy
+	url = git@github.com:siddancha/streaming-flow-policy.git
